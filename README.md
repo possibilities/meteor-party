@@ -1,6 +1,6 @@
 # party
 
-A tiny Meteor library for consuming JSON APIs inspired by Ruby's HTTParty
+A Meteor library for consuming JSON APIs inspired by Ruby's HTTParty
 
 Use the class methods to get down to business quickly
 
