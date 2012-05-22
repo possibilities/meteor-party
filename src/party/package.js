@@ -1,5 +1,5 @@
 Package.describe({
-  summary: "A Meteor library for consuming JSON APIs inspired by Ruby's HTTParty"
+  summary: "A smart package for consuming JSON APIs inspired by Ruby's HTTParty"
 });
 
 Package.on_use(function(api, where) {
