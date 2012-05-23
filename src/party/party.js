@@ -9,7 +9,7 @@ Party.prototype.get = function(urlPath, options) {
 };
 
 Party.prototype._getContent = function(response) {
-  response = JSON.parse(response.content)
+  response = JSON.parse(response.content);
   if (response.error) throw new Error(response.error);
   
   return response;
