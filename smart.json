@@ -1,0 +1,8 @@
+{
+  "name": "party",
+  "description": "A smart package for consuming JSON APIs inspired by Ruby's HTTParty",
+  "homepage": "https://github.com/possibilities/meteor-party",
+  "author": "Mike Bannister <notimpossiblemike@gmail.com> (http://po.ssibiliti.es)",
+  "version": "0.0.1",
+  "git": "https://github.com/possibilities/meteor-party.git"
+}
